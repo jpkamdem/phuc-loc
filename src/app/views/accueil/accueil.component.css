@@ -1,3 +1,15 @@
-img {
-    max-width: 1024px;
-}
+.boutique {
+    display: flex;
+    width: 100%;
+  }
+
+.titre{ 
+    text-align: center;
+    text-shadow: 2px 2px 4px red;
+    color: white;
+  }
+
+.present{
+    text-align: center;
+    color: white;
+  }
